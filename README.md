@@ -37,7 +37,7 @@ Ndiqni këto hapa për të instaluar dhe përdorur Instagram Cracker Password:
 
    tor
 
-3. Navigoni në Direktori e Skenarit\*\*: Ndryshoni direktorinë aktuale në direktorinë Insta-Cypher.
+3. Navigoni në Direktori e Skenarit\*\*: Ndryshoni direktorinë aktuale në direktorinë Instagram Cracker Password.
 
    cd instagramtools
 
