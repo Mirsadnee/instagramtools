@@ -1,9 +1,9 @@
-# Security Policy
 
-## Supported Versions
+# Politika e sigurisë
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+## Versionet e mbështetura
+
+Përdorni këtë seksion për t'u treguar njerëzve se cilat versione të projektit tuaj janë Aktualisht po mbështetet me përditësimet e sigurisë.
 
 | Version | Supported          |
 | ------- | ------------------ |
