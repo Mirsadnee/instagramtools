@@ -27,7 +27,7 @@ Përpara se të filloni, sigurohuni që keni parakushte të mëposhtme:
 
 ## Instalimi
 
-Ndiqni këto hapa për të instaluar dhe përdorur Insta-Cypher:
+Ndiqni këto hapa për të instaluar dhe përdorur Instagram Cracker Password:
 
 1. Klononi Repositorin: Klononi repositorin Insta-Cypher nga GitHub në makinën tuaj lokale.
 
