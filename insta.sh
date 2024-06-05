@@ -1,6 +1,12 @@
 #!/bin/bash
 
+# Funksioni për të dalë nga skripti
+dalje() {
+    exit $1
+}
+
 trap 'ruaj;dalje 1' 2
+
 string4=$(openssl rand -hex 32 | cut -c 1-4)
 string8=$(openssl rand -hex 32  | cut -c 1-8)
 string12=$(openssl rand -hex 32 | cut -c 1-12)
@@ -116,7 +122,7 @@ fi
 function rifillo() {
 
 default_sesion=$(ls sesione/ruaj.sesion.* | sort -r | head -n 1)
-read -p $'\e[1;92m Fut emrin e sesionit për të vazhduar, ose Enter për të vazhduar me sesionin më të fundit ($default_sesion): \e[0m' sesion_i_vazhdimit
+read -p $'\e[1;92m Fut emrin e sesionit për të vazhduar, ose Enter për të vazhduar me sesionin më të fundit ('$default_sesion'):\e[0m' sesion_i_vazhdimit
 sesion_i_vazhdimit="${sesion_i_vazhdimit:-${default_sesion}}"
 
 if [[ ! -e "$sesion_i_vazhdimit" ]]; then
@@ -148,7 +154,6 @@ nuk_gjetur="\e[1;91m [❌] \e[0m"
 gjetur="\e[1;92m [✔️] \e[0m"
 kontrollollogarinë=$(curl --socks5 localhost:9050 -s -c -H "Përdorues-Agjenti: Instagram 123.0.0.21.114 Android (18/4.3; 320dpi; 720x1280; Xiaomi; HM 1SW; armani; qcom; en_US)" \
 -H "Pajisja-ID: $pajisje" \
--H "Përdoruesi-Agjenti: Instagram 123.0.0.21.114" \
 -H "UUID: $uuid" \
 -H "Karakteristikat: $var2" \
 -H "Pranimi: */*" \
