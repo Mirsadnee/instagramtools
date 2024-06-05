@@ -5,17 +5,20 @@
 
 Përdorni këtë seksion për t'u treguar njerëzve se cilat versione të projektit tuaj janë Aktualisht po mbështetet me përditësimet e sigurisë.
 
-| Version | Supported          |
+| Versioni| Mbështetur        |
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
 | 5.0.x   | :x:                |
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-## Reporting a Vulnerability
+## Raportimi i një dobësie
 
-Use this section to tell people how to report a vulnerability.
+Përdoreni këtë seksion për t'u treguar njerëzve se si të raportojnë një dobësi.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Thuaju ku të shkojnë, sa shpesh mund të presin të marrin një përditësim në një Dobësia e raportuar, çfarë duhet të presim nëse prekshmëria pranohet ose të refuzuara, etj.
+
+
+	
+
+
