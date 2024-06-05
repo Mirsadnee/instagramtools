@@ -47,7 +47,7 @@ Ndiqni këto hapa për të instaluar dhe përdorur Instagram Cracker Password:
 
 ## Listat e Fjalëkalimeve
 
-- `default-passwords.lst` e përfshirë në këtë repositori përmban mbi 308,600 fjalëkalime që mund të përdoren për sulme me forcë brutale.
+- `lista-fjalekalimeve-default` e përfshirë në këtë repositori përmban mbi 308,600 fjalëkalime që mund të përdoren për sulme me forcë brutale.
 - Ju mund të gjeni lista të tjera fjalëkalimesh për sulmet tuaja me forcë brutale në këtë repositori GitHub: [More Passwords](https://github.com/scipag/password-list)
 
 ## Përdorimi
