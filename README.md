@@ -31,7 +31,7 @@ Ndiqni këto hapa për të instaluar dhe përdorur Insta-Cypher:
 
 1. Klononi Repositorin: Klononi repositorin Insta-Cypher nga GitHub në makinën tuaj lokale.
 
-   git clone https://github.com/pralinkhaira/Insta-Cypher
+   git clone https://github.com/Mirsadnee/instagramtools
 
 2. Nisni Tor: Nisni shërbimin Tor në një terminal tjetër për të siguruar lidhje anonime dhe të sigurta.
 
@@ -39,7 +39,7 @@ Ndiqni këto hapa për të instaluar dhe përdorur Insta-Cypher:
 
 3. Navigoni në Direktori e Skenarit\*\*: Ndryshoni direktorinë aktuale në direktorinë Insta-Cypher.
 
-   cd Insta-Cypher
+   cd instagramtools
 
 4. Vendosni Lejet: Bëjeni skenarin të ekzekutueshëm duke ndryshuar lejet e tij.
 
