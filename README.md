@@ -4,7 +4,7 @@
 
 ## Përshkrimi
 
-Insta-Cypher është një skenar Bash i dizajnuar për qëllime etike për të kryer sulme me forcë brutale në llogaritë e Instagramit, duke i lejuar përdoruesit të rikuperojnë fjalëkalimet e harruara ose të humbura. Ky skenar përdor një listë të fjalëkalimeve të mundshme dhe teknika të ndryshme për të tentuar të fitojë akses në një llogari Instagrami. Ju lutemi të siguroheni që keni leje të qartë për të përdorur këtë mjet në çdo llogari.
+Instagram Cracker Password është një skenar Bash i dizajnuar për qëllime etike për të kryer sulme me forcë brutale në llogaritë e Instagramit, duke i lejuar përdoruesit të rikuperojnë fjalëkalimet e harruara ose të humbura. Ky skenar përdor një listë të fjalëkalimeve të mundshme dhe teknika të ndryshme për të tentuar të fitojë akses në një llogari Instagrami. Ju lutemi të siguroheni që keni leje të qartë për të përdorur këtë mjet në çdo llogari.
 
 ## Përgjegjësimi
 
@@ -29,7 +29,7 @@ Përpara se të filloni, sigurohuni që keni parakushte të mëposhtme:
 
 Ndiqni këto hapa për të instaluar dhe përdorur Instagram Cracker Password:
 
-1. Klononi Repositorin: Klononi repositorin Insta-Cypher nga GitHub në makinën tuaj lokale.
+1. Klononi Repositorin: Klononi repositorin Instagram Cracker Password nga GitHub në makinën tuaj lokale.
 
    git clone https://github.com/Mirsadnee/instagramtools
 
